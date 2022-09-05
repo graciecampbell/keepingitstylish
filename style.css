@@ -1,0 +1,29 @@
+html {
+    background-color: rebeccapurple;
+}
+
+
+
+.firstbox {
+width: 100px;
+height: 100px;
+background-color: red;
+
+}
+
+.secondbox {
+width: 300px;
+height: 400px;
+background-color: blue;
+border-width: 2px;
+border-style: solid;
+border-color: red;
+
+}
+
+.thirdbox {
+width: 250px;
+height: 600px;
+background-color: green;
+border-radius: 6px;
+}
